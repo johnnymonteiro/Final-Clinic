@@ -1,0 +1,33 @@
+
+- joao monteiro---------------admin
+user:     jcdm@hotmail.com
+password: slb4ever
+
+
+- carlos santos---------------doctor
+user: carlos.santos@mailer.com
+password: slbcampeao
+
+- maria auxilia---------------doctor
+user: chiamonteiro@gmail.com
+password: ninaluan67
+
+- Andreia Monteiro------------patient
+user: andreia@gmail.com
+password: andreiamonteiro
+
+- Monica Silva------------patient
+user: monica@gmail.com
+password: monicasilva
+
+
+- joao carlos---------------patient
+user:     johnnymonteiro89@gmail.com
+password: slb4ever
+
+- elida evora---------------patient
+user:     elidaevora@gmail.com
+password: elidaevora
+
+
+
